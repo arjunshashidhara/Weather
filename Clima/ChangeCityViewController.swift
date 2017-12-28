@@ -14,7 +14,7 @@ protocol UpdateCityLocationDelegate {
 import UIKit
 
 
-//Write the protocol declaration here:
+//Write the protocol declaration here
 
 
 
